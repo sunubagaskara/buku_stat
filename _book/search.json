@@ -1,0 +1,54 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Statistik untuk Psikologi & Ilmu Sosial",
+    "section": "",
+    "text": "Selamat Datang!\nAlhamdulillah, akhirnya buku Statistik untuk Psikologi dan Ilmu Sosial ini bisa sampai ke tangan Anda. Buku ini lahir dari pengalaman sehari-hari di kelas, saat mendampingi mahasiswa yang sering kali merasa “alergi” begitu mendengar kata statistik. Padahal, kalau dipahami dengan cara yang tepat, statistik bukan sesuatu yang menakutkan. Justru ia adalah alat yang sangat membantu kita untuk membaca, memahami, dan menjelaskan fenomena psikologi secara lebih objektif.\nDalam buku ini, kami mencoba menyajikan konsep-konsep statistik dengan bahasa yang sederhana, runtut, dan dekat dengan dunia psikologi. Setiap bab tidak hanya berisi teori, tetapi juga contoh nyata serta latihan soal yang bisa membantu pembaca melatih pemahaman. Harapannya, buku ini bisa menjadi jembatan agar mahasiswa lebih percaya diri ketika berhadapan dengan data penelitian.\nKami menyadari buku ini masih jauh dari sempurna. Kritik dan saran dari para pembaca tentu sangat kami nantikan, agar pada edisi-edisi berikutnya buku ini bisa semakin baik.\nAkhir kata, semoga buku ini tidak hanya menjadi pegangan dalam belajar, tetapi juga menjadi sahabat yang menemani perjalanan Anda meneliti, menulis, dan memahami psikologi dengan lebih ilmiah.\nJakarta, Agustus 2025\n\nTim Penulis",
+    "crumbs": [
+      "Selamat Datang!"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Tentang Penulis",
+    "section": "",
+    "text": "Dr. Sunu Bagaskara\nDr. Entin Nurhayati\nSari Zakiah Akmal, Ph.D.\nTiti Sahidah Fitriana, Ph.D.\nAswin Januarsjaf, M.B.A",
+    "crumbs": [
+      "Tentang Penulis"
+    ]
+  },
+  {
+    "objectID": "1_pengantar.html",
+    "href": "1_pengantar.html",
+    "title": "I. PENGANTAR STATISTIK",
+    "section": "",
+    "text": "Statistik memainkan peran yang sangat penting dalam dunia psikologi, khususnya dalam konteks penelitian dan pengambilan keputusan berbasis data. Bab-bab awal buku ini bertujuan memberikan pemahaman dasar tentang konsep-konsep statistik yang relevan bagi mahasiswa psikologi. Mulai dari sejarah dan definisi statistik, pembahasan ini menjelaskan bagaimana perkembangan ilmu ini dipengaruhi oleh berbagai tokoh dan kebutuhan untuk memahami variasi dalam kehidupan manusia. Selain itu, bab-bab ini juga menguraikan prinsip-prinsip dasar seperti hubungan antara sampel dan populasi, serta peran parameter dan statistik dalam menginterpretasikan data penelitian.\nLebih jauh, buku ini membahas pentingnya statistik dalam penelitian psikologi, terutama untuk mengakomodasi kompleksitas perilaku manusia. Dengan menggunakan pendekatan deskriptif dan inferensial, statistik membantu peneliti menggambarkan data secara efektif sekaligus membuat generalisasi yang valid dari sampel ke populasi. Bab-bab ini dirancang untuk menjadi landasan kokoh bagi mahasiswa dalam memahami bagaimana statistik dapat digunakan untuk menjawab berbagai pertanyaan penelitian, mengatasi tantangan analisis data, dan mendukung validitas ilmiah psikologi sebagai disiplin ilmu.\n\n\n\n  \n  Textbox Example\n  \n\n\n \n\nTujuan Pembelajaran\n\nBab 1. Pengertian & Sejarah Ringkas Statistik:\n\nMemahami definisi statistik dan konsep dasar yang meliputi parameter dan statistik\nMengidentifikasi hubungan antara sampel dan populasi dalam konteks penelitian.\nMemahami peran statistik sebagai alat untuk mengorganisasi, merangkum, dan menginterpretasi informasi.\n\nBab 2. Statistik dalam Penelitian Psikologi:\n\nMenjelaskan peran statistik dalam mendukung psikologi sebagai ilmu ilmiah.\nMengevaluasi signifikansi statistik dalam memahami variasi perilaku dan membuat inferensi dari data penelitian.\n\nBab 3. Jenis-jenis Statistik: Deskriptif & Inferensial:\n\nMengidentifikasi perbedaan utama antara statistik deskriptif dan statistik inferensial, termasuk ruang lingkup dan tujuan keduanya.\nMemahami bagaimana kombinasi statistik deskriptif dan inferensial mendukung analisis data yang kuat, khususnya dalam ilmu perilaku dan sosial.",
+    "crumbs": [
+      "I. PENGANTAR STATISTIK"
+    ]
+  },
+  {
+    "objectID": "1_1_sejarah.html",
+    "href": "1_1_sejarah.html",
+    "title": "1  Pengertian & Sejarah Ringkas Statistik",
+    "section": "",
+    "text": "1.1 Definisi Statistik\nSejarah statistik bermula dari kebutuhan memahami variasi dalam ilmu hayati dan sosial (Gravetter & Wallnau, 2017). Variasi ini menjadi pusat perhatian dengan diperkenalkannya teori evolusi oleh Charles Darwin pada abad ke-19. Pionir seperti Francis Galton, sepupu Darwin, berusaha menguantifikasi pewarisan sifat biologis dan memunculkan konsep regresi terhadap rata-rata. Galton juga mengembangkan metode korelasi, yang menjadi dasar statistik modern. Selanjutnya, Karl Pearson memperkukuh landasan matematis statistik dengan memperkenalkan koefisien korelasi dan uji chi-kuadrat. Perkembangan ini melibatkan kajian biometrika dan genetik, dengan fokus pada pewarisan sifat yang dipengaruhi oleh gerakan eugenika.\nPada abad ke-20, Ronald Fisher memperkenalkan analisis varians dan metode eksperimental untuk memperluas penerapan statistik, terutama dalam ilmu perilaku (Cowles, 2000). Fisher, bersama Pearson, menekankan pentingnya inferensi statistik untuk mengatasi variasi alami. Pada saat yang sama, probabilitas berkembang sebagai dasar teoretis statistik, berakar dari upaya menjawab masalah dunia nyata seperti perjudian dan prediksi aktuarial. Normalisasi distribusi data, yang diperkenalkan oleh Lambert Quetelet, menjadi inti statistik inferensial. Hingga kini, statistik terus berkembang dengan mengintegrasikan metode baru untuk menjawab tantangan dalam berbagai disiplin ilmu.\nStatistik adalah kumpulan prosedur matematis yang digunakan untuk mengorganisasi, merangkum, dan menginterpretasi informasi (Gravetter & Wallnau, 2017). Dalam konteks penelitian, statistik membantu para peneliti untuk memahami hasil studi dan menyampaikan informasi tersebut secara akurat dan informatif. Statistik juga menyediakan teknik-teknik standar yang diakui dalam komunitas ilmiah sehingga hasil analisis dapat diinterpretasikan dengan konsistensi yang tinggi oleh peneliti lainnya.",
+    "crumbs": [
+      "I. PENGANTAR STATISTIK",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pengertian & Sejarah Ringkas Statistik</span>"
+    ]
+  },
+  {
+    "objectID": "1_1_sejarah.html#definisi-statistik",
+    "href": "1_1_sejarah.html#definisi-statistik",
+    "title": "1  Pengertian & Sejarah Ringkas Statistik",
+    "section": "",
+    "text": "1.1.1 Sampel dan Populasi\nPopulasi adalah keseluruhan individu atau elemen yang menjadi fokus penelitian. Karena populasi biasanya terlalu besar untuk dianalisis secara langsung, peneliti memilih sampel, yaitu sekelompok individu yang mewakili populasi. Sampel bertujuan untuk menyederhanakan penelitian sambil tetap memungkinkan penarikan kesimpulan yang dapat digeneralisasi ke populasi. Hubungan antara sampel dan populasi bersifat dua arah: sampel diambil dari populasi, dan hasil penelitian pada sampel digeneralisasikan kembali ke populasi.\n\n\n1.1.2 Parameter dan Statistik\nParameter adalah nilai yang menggambarkan suatu karakteristik dari populasi, seperti rata-rata populasi, sedangkan statistik adalah nilai yang menggambarkan karakteristik dari sampel, seperti rata-rata sampel. Dalam penelitian, data yang diperoleh berasal dari sampel, sehingga statistik digunakan untuk memperkirakan parameter populasi. Proses ini menciptakan hubungan erat antara statistik sampel dan parameter populasi, yang menjadi dasar dari banyak prosedur statistik.\n\n\n\n\nCowles, M. (2000). Statistics in Psychology: An Historical Perspective. Psychology Press.\n\n\nGravetter, F. J., & Wallnau, L. B. (2017). Statistics for the Behavioral Sciences. Cengage Learning.",
+    "crumbs": [
+      "I. PENGANTAR STATISTIK",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pengertian & Sejarah Ringkas Statistik</span>"
+    ]
+  }
+]

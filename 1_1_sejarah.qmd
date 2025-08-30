@@ -1,0 +1,17 @@
+# Pengertian & Sejarah Ringkas Statistik {sec="sejarah"}
+
+Sejarah statistik bermula dari kebutuhan memahami **variasi dalam ilmu hayati** dan sosial [@Gravetter2017]. Variasi ini menjadi pusat perhatian dengan diperkenalkannya teori evolusi oleh Charles Darwin pada abad ke-19. Pionir seperti Francis Galton, sepupu Darwin, berusaha menguantifikasi pewarisan sifat biologis dan memunculkan **konsep regresi terhadap rata-rata**. Galton juga mengembangkan metode **korelasi**, yang menjadi dasar statistik modern. Selanjutnya, Karl Pearson memperkukuh landasan matematis statistik dengan memperkenalkan koefisien korelasi dan uji chi-kuadrat. Perkembangan ini melibatkan kajian biometrika dan genetik, dengan fokus pada pewarisan sifat yang dipengaruhi oleh gerakan eugenika.
+
+Pada abad ke-20, Ronald Fisher memperkenalkan **analisis varians** dan **metode eksperimental** untuk memperluas penerapan statistik, terutama dalam ilmu perilaku [@Cowles2000]. Fisher, bersama Pearson, menekankan pentingnya inferensi statistik untuk mengatasi variasi alami. Pada saat yang sama, probabilitas berkembang sebagai dasar teoretis statistik, berakar dari upaya menjawab masalah dunia nyata seperti perjudian dan prediksi aktuarial. Normalisasi distribusi data, yang diperkenalkan oleh Lambert Quetelet, menjadi inti statistik inferensial. Hingga kini, statistik terus berkembang dengan mengintegrasikan metode baru untuk menjawab tantangan dalam berbagai disiplin ilmu.
+
+## Definisi Statistik
+
+Statistik adalah **kumpulan prosedur matematis** yang digunakan untuk **mengorganisasi**, **merangkum**, dan **menginterpretasi** informasi (Gravetter & Wallnau, 2017). Dalam konteks penelitian, statistik membantu para peneliti untuk memahami hasil studi dan menyampaikan informasi tersebut secara akurat dan informatif. Statistik juga menyediakan teknik-teknik standar yang diakui dalam komunitas ilmiah sehingga hasil analisis dapat diinterpretasikan dengan konsistensi yang tinggi oleh peneliti lainnya.
+
+### Sampel dan Populasi
+
+**Populasi** adalah **keseluruhan individu** atau elemen yang menjadi fokus penelitian. Karena populasi biasanya terlalu besar untuk dianalisis secara langsung, peneliti memilih **sampel**, yaitu **sekelompok individu yang mewakili populasi**. Sampel bertujuan untuk menyederhanakan penelitian sambil tetap memungkinkan penarikan kesimpulan yang dapat digeneralisasi ke populasi. Hubungan antara sampel dan populasi bersifat dua arah: sampel diambil dari populasi, dan hasil penelitian pada sampel digeneralisasikan kembali ke populasi.
+
+### Parameter dan Statistik
+
+**Parameter** adalah nilai yang menggambarkan suatu **karakteristik dari populasi**, seperti rata-rata populasi, sedangkan statistik adalah nilai yang menggambarkan karakteristik dari sampel, seperti rata-rata sampel. Dalam penelitian, data yang diperoleh berasal dari sampel, sehingga **statistik** digunakan untuk **memperkirakan parameter populasi**. Proses ini menciptakan hubungan erat antara statistik sampel dan parameter populasi, yang menjadi dasar dari banyak prosedur statistik.

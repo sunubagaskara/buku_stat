@@ -1,0 +1,62 @@
+# I. PENGANTAR STATISTIK {#sec-pengantar}
+
+Statistik memainkan peran yang sangat penting dalam dunia psikologi, khususnya dalam konteks penelitian dan pengambilan keputusan berbasis data. Bab-bab awal buku ini bertujuan memberikan pemahaman dasar tentang konsep-konsep statistik yang relevan bagi mahasiswa psikologi. Mulai dari sejarah dan definisi statistik, pembahasan ini menjelaskan bagaimana perkembangan ilmu ini dipengaruhi oleh berbagai tokoh dan kebutuhan untuk memahami variasi dalam kehidupan manusia. Selain itu, bab-bab ini juga menguraikan prinsip-prinsip dasar seperti hubungan antara sampel dan populasi, serta peran parameter dan statistik dalam menginterpretasikan data penelitian.
+
+Lebih jauh, buku ini membahas pentingnya statistik dalam penelitian psikologi, terutama untuk mengakomodasi kompleksitas perilaku manusia. Dengan menggunakan pendekatan deskriptif dan inferensial, statistik membantu peneliti menggambarkan data secara efektif sekaligus membuat generalisasi yang valid dari sampel ke populasi. Bab-bab ini dirancang untuk menjadi landasan kokoh bagi mahasiswa dalam memahami bagaimana statistik dapat digunakan untuk menjawab berbagai pertanyaan penelitian, mengatasi tantangan analisis data, dan mendukung validitas ilmiah psikologi sebagai disiplin ilmu.
+
+```{=html}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Textbox Example</title>
+  <style>
+    .textbox {
+      border: 1px solid #ccc;
+      width: 600px;
+      margin: 20px auto;
+      font-family: Georgia, serif;
+    }
+
+    .textbox-header {
+      background-color: #4a6d1f; /* hijau tua */
+      color: white;
+      padding: 8px 12px;
+      font-style: italic;
+      font-weight: normal;
+    }
+
+    .textbox-body {
+      background-color: #d8dfc0; /* hijau muda */
+      padding: 15px 20px;
+    }
+
+    .textbox-body ul {
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+<p>&nbsp;</p>
+<div class="textbox">
+<div class="textbox-header">Tujuan Pembelajaran</div>
+<div class="textbox-body">
+<p>Bab 1. Pengertian &amp; Sejarah Ringkas Statistik:</p>
+<ul>
+<li>Memahami definisi statistik dan konsep dasar yang meliputi parameter dan statistik</li>
+<li>Mengidentifikasi hubungan antara sampel dan populasi dalam konteks penelitian.</li>
+<li>Memahami peran statistik sebagai alat untuk mengorganisasi, merangkum, dan menginterpretasi informasi.</li>
+</ul>
+<p>Bab 2. Statistik dalam Penelitian Psikologi:</p>
+<ul>
+<li>Menjelaskan peran statistik dalam mendukung psikologi sebagai ilmu ilmiah.</li>
+<li>Mengevaluasi signifikansi statistik dalam memahami variasi perilaku dan membuat inferensi dari data penelitian.</li>
+</ul>
+<p>Bab&nbsp;3. Jenis-jenis Statistik: Deskriptif &amp; Inferensial:</p>
+<ul>
+<li>Mengidentifikasi perbedaan utama antara statistik deskriptif dan statistik inferensial, termasuk ruang lingkup dan tujuan keduanya.</li>
+<li>Memahami bagaimana kombinasi statistik deskriptif dan inferensial mendukung analisis data yang kuat, khususnya dalam ilmu perilaku dan sosial.</li>
+</ul>
+</div>
+</div>
+```

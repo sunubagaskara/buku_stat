@@ -1,0 +1,63 @@
+project:
+  type: book
+  output-dir: _book
+  
+book:
+  title: "Statistik untuk Psikologi & Ilmu Sosial"
+  subtitle: "Buku Panduan Praktis untuk Mahasiswa & Peneliti Muda"
+  reader-mode: true
+  author: 
+    - "Sunu Bagaskara"
+    - "Entin Nurhayati"
+    - "Sari Zakiah Akmal"
+    - "Titi Sahidah Fitriana"
+    - "Aswin Januarsjaf"
+  date: "8/30/2025"
+  date-format: "D MMMM YYYY"
+  page-footer:
+    left: |
+      Statistik untuk Psikologi & Ilmu Sosial
+    right: |
+      Buku ini dicetak menggunakan <a href="https://quarto.org/">Quarto</a>.
+  cover-image: Cover.png
+  favicon: Cover.png
+  chapters:
+    - index.qmd
+    - about.qmd
+
+    - part: 1_pengantar.qmd
+      chapters:
+        - 1_1_sejarah.qmd
+        
+    - part: 2_persiapan.qmd
+      
+    - part: 3_deskriptif.qmd
+      
+    - part: 4_inferensial.qmd
+
+    - part: 5_t-test.qmd
+      
+    - part: 6_anova.qmd
+      
+    - part: 7_korelasi.qmd
+    
+    - part: 8_regresi.qmd
+
+bibliography: references.bib
+bibliographystyle: apa
+csl: apa7id.csl
+
+lang: id_ID
+
+format:
+  html:
+    theme:
+      - united
+      - brand
+    code-link: true
+    author-meta: "Sunu Bagaskara, Entin Nurhayati, Sari Zakiah Akmal, Titi Sahidah Fitriana, & Aswin Januarsjaf"
+    breadcrumb: true
+  pdf:
+    documentclass: scrbook
+
+editor: visual

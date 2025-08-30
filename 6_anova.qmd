@@ -1,0 +1,1 @@
+# Membandingkan Rata-rata Tiga atau Lebih Kelompok {#sec-anova}

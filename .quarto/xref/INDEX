@@ -1,0 +1,35 @@
+{
+  "index.qmd": {
+    "index.html": "c2b63f86"
+  },
+  "about.qmd": {
+    "about.html": "e3d36afd"
+  },
+  "1_pengantar.qmd": {
+    "1_pengantar.html": "b62854c4"
+  },
+  "1_1_sejarah.qmd": {
+    "1_1_sejarah.html": "e41d49e0"
+  },
+  "2_persiapan.qmd": {
+    "2_persiapan.html": "f8026417"
+  },
+  "3_deskriptif.qmd": {
+    "3_deskriptif.html": "abeeeae2"
+  },
+  "4_inferensial.qmd": {
+    "4_inferensial.html": "90a9cf0b"
+  },
+  "5_t-test.qmd": {
+    "5_t-test.html": "f0f95279"
+  },
+  "6_anova.qmd": {
+    "6_anova.html": "d541979f"
+  },
+  "7_korelasi.qmd": {
+    "7_korelasi.html": "0451d205"
+  },
+  "8_regresi.qmd": {
+    "8_regresi.html": "ade19723"
+  }
+}
